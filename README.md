@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Sai Ruthik
 
-<!--
-**sairuthik2004/sairuthik2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
 
-Here are some ideas to get you started:
+- 🤖 AI/ML Projects — from health assistants to gesture control  
+- 🌐 Full Stack Development — Next.js, Drizzle ORM, NeonDB  
+- 🔗 Web3 & Blockchain — Smart contracts with Algorand & PyTeal  
+- 🎥 Creative — Photography, Cinematic Reels, and UI animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📚 Currently Learning
+
+- Deep Learning frameworks  
+- Real-time AI + Web integrations  
+- DApp Development with smart contracts
+
+---
+📬 Reach Me
+
+📧 sairuthik@example.com  
+📱 +91 98765 43210  
+📸 [@vr_stdio](https://instagram.com/vr_stdio)
+
+---
+
+_“Turning ideas into impactful tech.”_
